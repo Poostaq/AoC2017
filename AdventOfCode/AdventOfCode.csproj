@@ -71,6 +71,7 @@
   <ItemGroup>
     <Compile Include="Day1.cs" />
     <Compile Include="Day16.cs" />
+    <Compile Include="Day19.cs" />
     <Compile Include="Day2.cs" />
     <Compile Include="Day3.cs" />
     <Compile Include="Day4.cs" />
@@ -88,8 +89,10 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="InputDay19.txt" />
     <Content Include="InputDay2.txt" />
     <Content Include="InputDay16.txt" />
+    <Content Include="TestInput.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
